@@ -10,6 +10,8 @@ LED Blink.
 
 ![schematics2](https://user-images.githubusercontent.com/5597377/125879191-5755be06-d0b0-4b5c-be6b-1eff9d0dc73b.png)
 
+![gpio_program](https://user-images.githubusercontent.com/5597377/125908584-fade7a24-ffaa-47f9-af64-a97ac690f8a9.png)
+
 ## Reference
 
 https://github.com/mindsensors/SPIKEPrime
